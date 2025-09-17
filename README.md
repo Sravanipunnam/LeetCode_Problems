@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -35,17 +36,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0198-house-robber) |
+| [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
