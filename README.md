@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0838-design-linked-list) |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0817-design-hashmap) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
