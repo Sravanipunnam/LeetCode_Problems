@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0328-odd-even-linked-list) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Stack
