@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0838-design-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
