@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1603-design-parking-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0838-design-linked-list) |
+| [1603-design-parking-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1603-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2169-simple-bank-system) |
 ## Hash Function
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1603-design-parking-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2169-simple-bank-system) |
 ## Bit Manipulation
