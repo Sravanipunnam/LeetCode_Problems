@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0657-robot-return-to-origin](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0657-robot-return-to-origin) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1603-design-parking-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2169-simple-bank-system) |
