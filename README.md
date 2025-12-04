@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
+| [0885-spiral-matrix-iii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0885-spiral-matrix-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0657-robot-return-to-origin) |
+| [0885-spiral-matrix-iii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0885-spiral-matrix-iii) |
 | [1603-design-parking-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1603-design-parking-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2169-simple-bank-system) |
@@ -215,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0885-spiral-matrix-iii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0885-spiral-matrix-iii) |
 | [3242-design-neighbor-sum-service](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-design-neighbor-sum-service) |
 <!---LeetCode Topics End-->
