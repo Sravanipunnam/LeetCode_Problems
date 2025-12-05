@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2169-simple-bank-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3242-design-neighbor-sum-service](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-design-neighbor-sum-service) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0885-spiral-matrix-iii) |
 | [3242-design-neighbor-sum-service](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-design-neighbor-sum-service) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
