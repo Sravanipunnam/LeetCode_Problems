@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
