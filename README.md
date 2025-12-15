@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
+| [3701-compute-alternating-sum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2169-simple-bank-system) |
 | [2562-find-the-array-concatenation-value](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [3242-design-neighbor-sum-service](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-design-neighbor-sum-service) |
+| [3701-compute-alternating-sum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
