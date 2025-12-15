@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2169-simple-bank-system) |
 | [2562-find-the-array-concatenation-value](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2562-find-the-array-concatenation-value) |
 | [3242-design-neighbor-sum-service](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-design-neighbor-sum-service) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
