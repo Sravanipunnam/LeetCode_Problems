@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0402-remove-k-digits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0657-robot-return-to-origin) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0946-validate-stack-sequences) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -303,5 +306,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0402-remove-k-digits) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
