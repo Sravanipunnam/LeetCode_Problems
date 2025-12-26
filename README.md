@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0198-house-robber) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0148-sort-list) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0402-remove-k-digits) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
