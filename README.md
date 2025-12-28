@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0999-available-captures-for-rook](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1018-largest-perimeter-triangle](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1470-shuffle-the-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0611-valid-triangle-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0885-spiral-matrix-iii) |
 | [0999-available-captures-for-rook](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0999-available-captures-for-rook) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3242-design-neighbor-sum-service](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-design-neighbor-sum-service) |
 ## Prefix Sum
 |  |
