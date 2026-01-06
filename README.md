@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0412-fizz-buzz](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0412-fizz-buzz) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
