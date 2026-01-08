@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0070-climbing-stairs) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [0832-flipping-an-image](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
