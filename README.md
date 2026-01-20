@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3242-design-neighbor-sum-service](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-design-neighbor-sum-service) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3531-count-covered-buildings) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0832-flipping-an-image) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
