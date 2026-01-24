@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0611-valid-triangle-number) |
 | [0832-flipping-an-image](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0832-flipping-an-image) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2562-find-the-array-concatenation-value](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2562-find-the-array-concatenation-value) |
 ## Stack
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3531-count-covered-buildings) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Geometry
