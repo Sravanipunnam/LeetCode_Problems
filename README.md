@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0412-fizz-buzz](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
