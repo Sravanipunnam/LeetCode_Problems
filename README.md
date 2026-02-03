@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
+| [3637-trionic-array-i](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3637-trionic-array-i) |
 | [3701-compute-alternating-sum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
 ## Linked List
 |  |
