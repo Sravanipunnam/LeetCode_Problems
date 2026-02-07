@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0498-diagonal-traverse](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0735-asteroid-collision) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0838-design-linked-list) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
