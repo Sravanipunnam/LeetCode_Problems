@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0402-remove-k-digits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0402-remove-k-digits) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0412-fizz-buzz](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0412-fizz-buzz) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0498-diagonal-traverse) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0832-flipping-an-image) |
