@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+| [0799-champagne-tower](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0799-champagne-tower) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
