@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0190-reverse-bits) |
 | [0832-flipping-an-image](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
