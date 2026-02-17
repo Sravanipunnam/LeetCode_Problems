@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [0840-magic-squares-in-grid](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0885-spiral-matrix-iii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0946-validate-stack-sequences) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0611-valid-triangle-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Greedy
 |  |
