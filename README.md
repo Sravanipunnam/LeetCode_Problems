@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1603-design-parking-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1603-design-parking-system) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
