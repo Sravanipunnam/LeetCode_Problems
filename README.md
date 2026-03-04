@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3242-design-neighbor-sum-service](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-design-neighbor-sum-service) |
 ## Prefix Sum
 |  |
