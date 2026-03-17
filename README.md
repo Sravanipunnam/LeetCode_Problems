@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -520,4 +522,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
