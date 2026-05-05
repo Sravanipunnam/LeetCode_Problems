@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0498-diagonal-traverse) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
