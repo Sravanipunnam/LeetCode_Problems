@@ -10,35 +10,36 @@
  */
 class Solution {
 public:
-ListNode* findn(ListNode * temp,int k)
-{
-    int cnt=1;
-    while(temp!=nullptr)
-    {
-        if(cnt==k) return temp;
-        cnt++;
-        temp=temp->next;
-    }
-    return temp;
-}
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head==nullptr || k==0)
-        {
-            return head;
+        ListNode* temp1=head;
+         if (!head || !head->next || k == 0) return head;
+        int size=0;
+        while(temp1!=nullptr){
+             size++;
+             temp1=temp1->next;
         }
-        int len=1;
+     k = k % size;
+      if (k == 0) return head;   // 🔥 must come BEFORE size-k
+      k = size - k;
+        
         ListNode* temp=head;
-        while(temp->next!=nullptr)
-        {
+        int count=0;
+        while(temp!=nullptr){
+            if(count==k-1){
+                break;
+            }
+            count++;
             temp=temp->next;
-            len++;
         }
-        if(k%len==0) return head;
-        k=k%len;
-        temp->next=head;
-        ListNode* nnode=findn(head,len-k);
-        head=nnode->next;
-        nnode->next=nullptr;
-        return head;
+        ListNode* start=temp->next;
+        ListNode* ans=start;
+        temp->next=nullptr;
+        while(start->next!=nullptr){
+            start=start->next;
+        }
+        start->next=head;
+        return ans;
+        
+
     }
 };
