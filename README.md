@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0402-remove-k-digits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0402-remove-k-digits) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Doubly-Linked List
