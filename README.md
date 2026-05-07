@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0946-validate-stack-sequences) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [0994-rotting-oranges](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1018-largest-perimeter-triangle](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1200-minimum-absolute-difference) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0885-spiral-matrix-iii) |
+| [0994-rotting-oranges](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
