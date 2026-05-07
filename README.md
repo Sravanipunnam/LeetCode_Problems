@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0617-merge-two-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0617-merge-two-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0200-number-of-islands) |
+| [0617-merge-two-binary-trees](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
