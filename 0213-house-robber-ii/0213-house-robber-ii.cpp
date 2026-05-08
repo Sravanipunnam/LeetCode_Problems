@@ -1,30 +1,26 @@
 class Solution {
 public:
-int rob1(vector<int>& nums) {
-        int n=nums.size();
+int fun(vector<int>& nums){
+      int n=nums.size();
         vector<int>dp(n);
+        if(n==1) return nums[0];
         dp[0]=nums[0];
-        for(int i=1;i<nums.size();i++){
-            int take=nums[i];
-            if(i>1){
-                take+=dp[i-2];
-            }
-            int nontake=dp[i-1];
-            dp[i]=max(take,nontake);
+        dp[1]=max(nums[0],nums[1]);
+        for(int i=2;i<n;i++){
+            int take=nums[i]+dp[i-2];
+            int notake=dp[i-1];
+            dp[i]=max(take,notake);
         }
         return dp[n-1];
-        
-    }
+}
     int rob(vector<int>& nums) {
-        vector<int>temp1,temp2;
-        if(nums.size()==1){
-            return nums[0];
-        }
+
+        if(nums.size() == 1) return nums[0];
+        vector<int>t1,t2;
         for(int i=0;i<nums.size();i++){
-            if(i!=0) temp1.push_back(nums[i]);
-            if(i!=nums.size()-1) temp2.push_back(nums[i]);
+            if(i!=0) t1.push_back(nums[i]);
+            if(i!=nums.size()-1) t2.push_back(nums[i]);
         }
-        return max(rob1(temp1),rob1(temp2));
-        
+        return max(fun(t1),fun(t2));
     }
 };
