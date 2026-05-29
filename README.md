@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3242-design-neighbor-sum-service](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-design-neighbor-sum-service) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
