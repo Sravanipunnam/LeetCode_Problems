@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0125-valid-palindrome) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0056-merge-intervals) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
