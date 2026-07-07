@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0200-number-of-islands) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
