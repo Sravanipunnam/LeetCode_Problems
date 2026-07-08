@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Ordered Set
 |  |
 | ------- |
