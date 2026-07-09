@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0816-design-hashset](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0817-design-hashmap) |
 | [0840-magic-squares-in-grid](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0695-max-area-of-island) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1200-minimum-absolute-difference) |
