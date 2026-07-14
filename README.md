@@ -616,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
