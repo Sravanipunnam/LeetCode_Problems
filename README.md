@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0595-big-countries) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
