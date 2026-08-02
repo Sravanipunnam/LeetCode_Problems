@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0877-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0877-stone-game) |
 | [0885-spiral-matrix-iii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0946-validate-stack-sequences) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -633,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0595-big-countries) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1527-patients-with-a-condition) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
