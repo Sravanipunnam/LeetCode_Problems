@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
+| [3731-find-missing-elements](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3637-trionic-array-i) |
 | [3701-compute-alternating-sum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
+| [3731-find-missing-elements](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
 | ------- |
