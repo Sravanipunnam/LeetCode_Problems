@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1980-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2169-simple-bank-system) |
 | [2540-minimum-common-value](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2540-minimum-common-value) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3242-design-neighbor-sum-service](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3242-design-neighbor-sum-service) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravanipunnam/LeetCode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Doubly-Linked List
 |  |
 | ------- |
